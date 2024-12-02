@@ -6,8 +6,6 @@ comment:  Edrys Tutorial
 
 icon:     ./images/logo.png
 
-link:     ./styles.css
-
 -->
 
 
@@ -34,6 +32,8 @@ The teacher is the one who creates the classroom and can open a station (the tea
 
     Some edrys modules can be found in: https://github.com/topics/edrys-module
 
+    After adding a module, you can modify where it will be shown (lobby/station), modify its styling (widht/height), and add other settings.
+
   - **From an existing configuration**: Open Settings => Share, and import the configuration from a local file or a URL. 
 
     Some ready-to-use classroom configurations are available in the following repositories (You can also just click the deploy-button of the desired configuration):
@@ -42,7 +42,7 @@ The teacher is the one who creates the classroom and can open a station (the tea
     - https://github.com/topics/edrys-lab
     - https://github.com/edrys-labs/lab-tubaf-embedded-systems
 
-  After adding a module, you can modify where it will be shown (lobby/station), modify its styling (widht/height), and add other settings.
+  * **Create your own configuration**: You can create your own configuration by creating a YAML file with the appropriate structure ([Example](https://github.com/edrys-labs/edrys-exercises/blob/main/labs/arduino_blink.yml)). And then import the configuration file in the classroom settings.
 
 * **Open a Station**
 
