@@ -1,0 +1,1 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/jh-488/edrys-tutorial/refs/heads/main/tutorial.md)
